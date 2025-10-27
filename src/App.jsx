@@ -19,7 +19,7 @@ function App() {
   }
 
   return (
-    <div className=' flex'>
+    <div className=' flex flex-col md:flex-row'>
       <div className='w-[60%]'>
       <Crickters handleClick={handleClick}></Crickters>
       </div>
