@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Virat Kohli",
+        "runs": 13000,
+        "centuries": 48,
+        "fifties": 70,
+        "role": "Batsman",
+        "team": "India"
+    },
+    {
+        "name": "Babar Azam",
+        "runs": 8000,
+        "centuries": 19,
+        "fifties": 45,
+        "role": "Batsman",
+        "team": "Pakistan"
+    },
+    {
+        "name": "Joe Root",
+        "runs": 11000,
+        "centuries": 30,
+        "fifties": 60,
+        "role": "Batsman",
+        "team": "England"
+    },
+    {
+        "name": "David Warner",
+        "runs": 9500,
+        "centuries": 25,
+        "fifties": 45,
+        "role": "Opening Batsman",
+        "team": "Australia"
+    },
+    {
+        "name": "Kane Williamson",
+        "runs": 9000,
+        "centuries": 27,
+        "fifties": 45,
+        "role": "Batsman",
+        "team": "New Zealand"
+    },
+    {
+        "name": "Shakib Al Hasan",
+        "runs": 7500,
+        "centuries": 10,
+        "fifties": 50,
+        "role": "All-Rounder",
+        "team": "Bangladesh"
+    },
+    {
+        "name": "Ben Stokes",
+        "runs": 6000,
+        "centuries": 13,
+        "fifties": 30,
+        "role": "All-Rounder",
+        "team": "England"
+    },
+    {
+        "name": "Rashid Khan",
+        "runs": 1200,
+        "centuries": 0,
+        "fifties": 4,
+        "role": "Bowler",
+        "team": "Afghanistan"
+    },
+    {
+        "name": "Pat Cummins",
+        "runs": 1200,
+        "centuries": 1,
+        "fifties": 5,
+        "role": "Bowler",
+        "team": "Australia"
+    },
+    {
+        "name": "Jos Buttler",
+        "runs": 5000,
+        "centuries": 12,
+        "fifties": 25,
+        "role": "Wicketkeeper-Batsman",
+        "team": "England"
+    }
+]
