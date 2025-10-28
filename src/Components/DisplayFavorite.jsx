@@ -3,7 +3,7 @@ export default function DisplayFavorite({crickter, handleRemove}){
     const {name, runs, fifties, role, centuries, team} =  crickter;
     return(
         <div>
-            <div className="border-2 mx-3 border-purple-500 px-5 py-4 w-[60%] my-4 rounded-xl flex justify-between ">
+            <div className="border-2 mx-3 border-purple-500 px-5 py-4  my-4 rounded-xl flex justify-between ">
             <div>
             <h1>Name: {name} </h1>
             <h1>Runs: {runs} </h1>

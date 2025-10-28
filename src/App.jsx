@@ -19,11 +19,11 @@ function App() {
   }
 
   return (
-    <div className=' flex flex-col md:flex-row'>
-      <div className='w-[60%]'>
+    <div className=' px-4 flex flex-col md:flex-row container gap-10 mx-auto my-5 '>
+      <div className=' md:ml-10   md:w-[60%] '>
       <Crickters handleClick={handleClick}></Crickters>
       </div>
-      <div className='w-[35%]'>
+      <div className='md:w-[35%]'>
         <FavouriteCrickter crickters={crickters} handleRemove={handleRemove}></FavouriteCrickter>
       </div>
     </div>
